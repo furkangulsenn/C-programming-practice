@@ -5,7 +5,7 @@ int main() {
     int sayi, i = 0, kalan;
     int binary[32];
 
-    printf("Bir ondalık sayı gir: ");
+    printf("Bir ondalik sayi gir: ");
     scanf("%d", &sayi);
 
     int gecici = sayi;
@@ -17,9 +17,11 @@ int main() {
         i++;
     }
 
-    printf("%d sayısının ikili karşılığı: ", sayi);
+    printf("%d sayisinin ikili karsiligi: ", sayi);
   
-    for (i = i-1; i >= 0; i--) printf("%d", binary[i]);
+    for (i = i-1; i >= 0; i--)
+      printf("%d", binary[i]);
+  
       printf("\n");
 
   
