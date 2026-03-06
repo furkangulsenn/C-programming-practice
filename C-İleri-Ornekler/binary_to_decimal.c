@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 
+// 1 ve 0 lardan oluşan sayıyı girdikten sonra klavyeden hernagi bi harfi yada kelimeyi tuşlayıp enterlanması lazım.
+
 int main() {
   
     int i = 0, ondalik = 0, sayi;
