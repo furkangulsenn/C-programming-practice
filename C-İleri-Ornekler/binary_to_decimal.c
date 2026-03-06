@@ -8,7 +8,7 @@ int main() {
     int i = 0, ondalik = 0, sayi;
     int binary[32];
   
-    printf("İkili sayı gir (en fazla 32 bit): ");
+    printf("İkili sayi gir (en fazla 32 bit): ");
   
     while (scanf("%1d", &binary[i]) == 1) i++;
 
@@ -17,7 +17,7 @@ int main() {
     for (basamak = 0; basamak < i; basamak++)
         ondalik += binary[i-1-basamak] * pow(2, basamak);
 
-    printf("Ondalık karşılığı: %d\n", ondalik);
+    printf("Ondalik karsiligi: %d\n", ondalik);
 
   
     return 0;
