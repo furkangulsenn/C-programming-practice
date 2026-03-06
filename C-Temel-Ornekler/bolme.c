@@ -13,4 +13,4 @@ int main(){
     printf("Sonuc = %.2f",sonuc);
 
     return 0;
-}
+} 
