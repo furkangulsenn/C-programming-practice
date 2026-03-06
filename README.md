@@ -36,7 +36,7 @@ C-Programming-Practice is a collection of classic and advanced C programming exa
 This project is actively maintained. Examples are tested and ready to run.  
 
 ## 📷 Screenshots
-- (Optional: add screenshots of console outputs or diagrams)  
+-------------------------------------------
 
 ## 👨‍💻 Developer
 Minas  
