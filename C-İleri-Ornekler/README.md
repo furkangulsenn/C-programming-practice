@@ -1,4 +1,4 @@
-# ?? C-Üst-Seviye-Ornekler
+# 💻 C-Üst-Seviye-Ornekler
 
 ![C](https://img.shields.io/badge/Language-C-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
