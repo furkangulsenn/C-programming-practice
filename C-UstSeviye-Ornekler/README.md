@@ -1,4 +1,4 @@
-# 💻 C-Üst-Seviye-Ornekler
+# 💻 C-Üst-Seviye-Örnekler
 
 ![C](https://img.shields.io/badge/Language-C-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
@@ -19,3 +19,4 @@ Minas
 1. Open the .c file in your preferred C IDE
 2. Compile and run
 3. Follow console instructions
+
