@@ -12,6 +12,7 @@ C-ÜstSeviye-Ornekler is a collection of advanced C programming examples includi
 - Multithreading examples using C11 threads
 
 👨‍💻 Developer
+
 Minas
 
 ▶ How to Run
