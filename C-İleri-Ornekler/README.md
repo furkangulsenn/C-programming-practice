@@ -5,7 +5,7 @@
 
 C-ÜstSeviye-Ornekler is a collection of advanced C programming examples including data structures, graph algorithms, file operations, mini-games, and multithreading.
 
-#🚀Features
+🚀Features
 - AVL Trees (Insertion, Deletion, Traversal)
 - Graph Algorithms (DFS, BFS, Dijkstra, Kruskal, Prim)
 - Mini-games with file operations (score saving, game data)
