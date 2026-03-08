@@ -7,7 +7,7 @@ C-Programming-Practice is a collection of classic and advanced C programming exa
 
 ## 🚀 Features
 
-### C-Temel-Örnekler (Beginner)
+### C-Temel-Ornekler (Beginner)
 - Faktöriyel ve Fibonacci
 - Asal sayı kontrolü
 - Toplama, Çıkarma, Çarpma, Bölme
@@ -16,7 +16,7 @@ C-Programming-Practice is a collection of classic and advanced C programming exa
 - Tek/Çift sayı kontrolü
 - Basit sıralama (Bubble Sort)
 
-### C-İleri-Örnekler (Intermediate/Advanced)
+### C-İleri-Ornekler (Intermediate/Advanced)
 - Stack ve Queue (dizi ve döngüsel)
 - Tek yönlü bağlı liste ve tersine çevirme
 - Merge Sort
