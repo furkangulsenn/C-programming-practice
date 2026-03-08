@@ -14,7 +14,7 @@ C-ÜstSeviye-Ornekler is a collection of advanced C programming examples includi
 👨‍💻 Developer
 Minas
 
-## How to Run
+▶ How to Run
 1. Open the .c file in your preferred C IDE
 2. Compile and run
 3. Follow console instructions
