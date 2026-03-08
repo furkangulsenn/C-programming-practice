@@ -11,7 +11,7 @@ C-ÜstSeviye-Ornekler is a collection of advanced C programming examples includi
 - Mini-games with file operations (score saving, game data)
 - Multithreading examples using C11 threads
 
-## Developer
+👨‍💻 Developer
 Minas
 
 ## How to Run
