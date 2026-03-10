@@ -16,7 +16,7 @@ C-Programming-Practice is a collection of classic and advanced C programming exa
 - Tek/Çift sayı kontrolü
 - Basit sıralama (Bubble Sort)
 
-### C-Ortalama-Ornekler (Intermediate/Advanced)
+### C-Ortalama-Ornekler (Intermediate)
 - Stack ve Queue (dizi ve döngüsel)
 - Tek yönlü bağlı liste ve tersine çevirme
 - Merge Sort
@@ -27,6 +27,11 @@ C-Programming-Practice is a collection of classic and advanced C programming exa
 - Asal sayılar belirli aralıkta
 - EBOB/EKOK hesaplamaları
 - Dizi büyükten küçüğe sıralama  
+
+### C-Ileri-Ornekler (Advanced)
+
+--------
+
 
 ## 🛠 Technologies Used
 - C (ANSI C standard)
