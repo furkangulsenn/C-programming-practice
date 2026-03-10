@@ -29,8 +29,11 @@ C-Programming-Practice is a collection of classic and advanced C programming exa
 - Dizi büyükten küçüğe sıralama  
 
 ### C-Ileri-Ornekler (Advanced)
+- AVL Trees (Insertion, Deletion, Traversal)
+- Graph Algorithms (DFS, BFS, Dijkstra, Kruskal, Prim)
+- Mini-games with file operations (score saving, game data)
+- Multithreading examples using C11 threads
 
---------
 
 
 ## 🛠 Technologies Used
